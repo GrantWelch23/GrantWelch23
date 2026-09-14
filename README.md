@@ -1,6 +1,6 @@
 # Grant Welch
 
-Extremely passionate about software, drones, and autonomy
+Software Engineering major who is passionate about drones and the software that controls them
 
 ## Information Swarm
 
